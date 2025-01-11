@@ -1,1 +1,10 @@
 # rsponsivewebsite1
+![Pink](https://github.com/user-attachments/assets/92e56435-685f-46f3-a057-62282a627f79)
+![Orange](https://github.com/user-attachments/assets/0cfb83a9-3186-48f1-be34-0d69f17abd2c)
+![Indigo](https://github.com/user-attachments/assets/fc3708e7-846a-4466-8768-2d1cf8e49057)
+![Green](https://github.com/user-attachments/assets/14d61192-951e-4b34-a979-67f9c3922aca)
+![Blue](https://github.com/user-attachments/assets/b49eb270-0ad8-4530-8b46-fde48b47f4cb)
+![Yellow](https://github.com/user-attachments/assets/d1c1e1d3-aaac-486c-bfcc-3570cba81f7c)
+![White](https://github.com/user-attachments/assets/cd43da21-7910-463a-a6b9-7bb75ebb8ad5)
+![Red](https://github.com/user-attachments/assets/6d7d131d-138b-4cea-b035-d3133d944a98)
+![Purple](https://github.com/user-attachments/assets/c4b1b1b9-cc02-4e36-85bb-c09719cdbe23)
